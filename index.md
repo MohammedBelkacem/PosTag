@@ -1,5 +1,6 @@
-
-Fren afaylu n tegrumma n tefyar yettwacerḍen: <input type="text"/>
+Acraḍ asnalɣan aseddasan i tutlayt taqbaylit:
+<br>
+Fren afaylu n tegrumma n tefyar yettwacerḍen: <input type="file" id="myfile" name="myfile">
 <br>
 Fren alguritm: 
 <select id="alguritm" name="alguritm">
